@@ -18,7 +18,3 @@ Para utilizar este programa, simplemente sigue estos pasos:
 2. Compila el programa utilizando un compilador de C++.
 3. Ejecuta el programa y sigue las instrucciones para ingresar el texto que deseas cifrar.
 
-## Ejemplo
-
-Aquí hay un ejemplo de cómo se vería la salida del programa:
-
